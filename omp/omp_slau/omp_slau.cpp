@@ -5,7 +5,7 @@
 void multiplyMatrixVector(const float* matrix, const float* vec, float* result, const int N) {
 #pragma omp parallel for
     for (int i = 0; i < N; ++i) {
-        int sum = 0;
+        float sum = 0;
         for (int j = 0; j < N; ++j) {
             sum += matrix[i * N + j] * vec[j];
         }
