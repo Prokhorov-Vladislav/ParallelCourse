@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladi\\Desktop\\Parallel\\ParallelCourse\\MPI\\MPI_slau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B51494B3-7F7F-4A4E-A66A-4F017F76C42E}|MPI_slau.vcxproj|C:\\Users\\vladi\\Desktop\\Parallel\\ParallelCourse\\MPI\\MPI_slau\\MPI_slau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B51494B3-7F7F-4A4E-A66A-4F017F76C42E}|MPI_slau.vcxproj|solutionrelative:MPI_slau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MPI_slau.cpp",
+              "DocumentMoniker": "C:\\Users\\vladi\\Desktop\\Parallel\\ParallelCourse\\MPI\\MPI_slau\\MPI_slau.cpp",
+              "RelativeDocumentMoniker": "MPI_slau.cpp",
+              "ToolTip": "C:\\Users\\vladi\\Desktop\\Parallel\\ParallelCourse\\MPI\\MPI_slau\\MPI_slau.cpp",
+              "RelativeToolTip": "MPI_slau.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T05:40:10.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
